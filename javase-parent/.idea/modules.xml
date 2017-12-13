@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javase-basic/javase-basic.iml" filepath="$PROJECT_DIR$/javase-basic/javase-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$//javase-basic.iml" filepath="$PROJECT_DIR$//javase-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-datastructure/javase-datastructure.iml" filepath="$PROJECT_DIR$/javase-datastructure/javase-datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$//javase-parent.iml" filepath="$PROJECT_DIR$//javase-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$//wwwww.iml" filepath="$PROJECT_DIR$//wwwww.iml" />
+    </modules>
+  </component>
+</project>

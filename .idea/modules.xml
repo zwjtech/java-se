@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-algorithms/basic-algorithms.iml" filepath="$PROJECT_DIR$/basic-algorithms/basic-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-se.iml" filepath="$PROJECT_DIR$/.idea/java-se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-parent/javase-basic/javase-basic.iml" filepath="$PROJECT_DIR$/javase-parent/javase-basic/javase-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-parent/javase-concurrent/javase-concurrent.iml" filepath="$PROJECT_DIR$/javase-parent/javase-concurrent/javase-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-parent/javase-datastructure/javase-datastructure.iml" filepath="$PROJECT_DIR$/javase-parent/javase-datastructure/javase-datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-parent/javase-parent.iml" filepath="$PROJECT_DIR$/javase-parent/javase-parent.iml" />
+    </modules>
+  </component>
+</project>
