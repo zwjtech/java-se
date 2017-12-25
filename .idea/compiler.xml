@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="basic-algorithms" />
         <module name="javase-basic" />
+        <module name="javase-concurrent" />
         <module name="javase-datastructure" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic-algorithms" target="1.5" />
       <module name="javase-basic" target="1.5" />
+      <module name="javase-concurrent" target="1.5" />
       <module name="javase-datastructure" target="1.5" />
       <module name="javase-parent" target="1.5" />
     </bytecodeTargetLevel>

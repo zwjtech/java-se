@@ -1,8 +1,13 @@
 package com.javase.datastructure.list;
 
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class ListTest {
-
-    public static void main(String[] args) {
-
+    @Test
+    public void testList(){
+        List list=new ArrayList();
     }
 }
