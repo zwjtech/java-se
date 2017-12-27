@@ -1,4 +1,4 @@
-package com.javase.datastructure.com.javase.datastructure.vector;
+package com.javase.datastructure.vector;
 
 import org.junit.Test;
 

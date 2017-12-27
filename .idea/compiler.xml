@@ -12,7 +12,7 @@
         <module name="javase-datastructure" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="basic-algorithms" target="1.5" />
       <module name="javase-basic" target="1.5" />
       <module name="javase-concurrent" target="1.5" />
